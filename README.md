@@ -3,7 +3,7 @@ Welcome to this course! We are ready start our journy to learn android app devel
 
 >Some Android stuffs
 
-- [Android Official Website] (https://www.android.com/)
--  [Android Studio & SDK] (https://developer.android.com/studio/?authuser=1)
-- [Android Full Story] (https://en.wikipedia.org/wiki/Android_(operating_system))
+- [Android Official Website](https://www.android.com/)
+-  [Android Studio & SDK](https://developer.android.com/studio/?authuser=1)
+- [Android Full Story](https://en.wikipedia.org/wiki/Android_(operating_system))
 
