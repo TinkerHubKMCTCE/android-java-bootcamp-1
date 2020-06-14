@@ -1,4 +1,9 @@
-### Android Java Bootcamp
-Hi there, this repo contains all your essential resources for the android java bootcamp conducted by TinkerHub KMCTCE
-Please use below links to redirect to resources for each day
-- [Day 1](https://github.com/kariot/android-java-bootcamp/tree/day-1)
+### Android Java Bootcamp Day-1 :rocket:
+Welcome to this course! We are ready start our journy to learn android app developemnt. We will be talking about the basic things that you should you know while developing apps for Android. We will be familiarizing the IDE. History of Android etc..
+
+>Some Android stuffs
+
+- [Android Official Website] (https://www.android.com/)
+-  [Android Studio & SDK] (https://developer.android.com/studio/?authuser=1)
+- [Android Full Story] (https://en.wikipedia.org/wiki/Android_(operating_system))
+
